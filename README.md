@@ -1,6 +1,8 @@
 # baidu_mob_stat
 
-百度移动统计Flutter插件，对于基于Flutter开发的APP，您可以按如下步骤使用百度移动统计SDK，完成基础的埋点统计和上报。
+该工程是百度移动统计Flutter插件工程。
+对于基于Flutter开发的APP，您可以按如下步骤使用百度移动统计SDK，完成基础的埋点统计和上报。
+具体调用示例，可以参考example工程
 
 ## 集成方法
 1. 在 Flutter 项目的 pubspec.yaml 文件中 dependencies 里面添加 baidu_mob_stat 依赖
