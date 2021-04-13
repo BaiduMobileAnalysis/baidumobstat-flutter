@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+百度移动统计 Flutter插件
