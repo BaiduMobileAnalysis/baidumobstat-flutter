@@ -38,10 +38,6 @@ public class BaiduMobStatPlugin implements FlutterPlugin, MethodCallHandler {
         channel = new MethodChannel(flutterPluginBinding.getBinaryMessenger(), "baidu_mob_stat");
         channel.setMethodCallHandler(this);
         mContext = flutterPluginBinding.getApplicationContext();
-        // 初始化MTJ
-        StatService.setAppKey("testKey");
-        StatService.setDebugOn(true);
-        StatService.start(mContext);
     }
 
     @Override

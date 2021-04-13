@@ -2,7 +2,7 @@ PODS:
   - baidu_mob_stat (0.0.1):
     - BaiduMobStat
     - Flutter
-  - BaiduMobStat (5.3.2)
+  - BaiduMobStat (5.3.3)
   - Flutter (1.0.0)
 
 DEPENDENCIES:
@@ -21,7 +21,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   baidu_mob_stat: 20de080f3593811321e7c97a380ae3a0923990ef
-  BaiduMobStat: f486c2f3786ef44e922ecc340139ee1b34ce0dc1
+  BaiduMobStat: 337a1ea0e6f0f382e862c3a3dc9030927dceab5e
   Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
 
 PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d

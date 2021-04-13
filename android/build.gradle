@@ -30,6 +30,6 @@ android {
 }
 
 dependencies {
-    implementation 'com.baidu.mobstat:mtj-sdk:latest.integration'
+    api 'com.baidu.mobstat:mtj-sdk:latest.integration'
 
 }
