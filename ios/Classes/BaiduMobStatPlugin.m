@@ -8,6 +8,7 @@
             binaryMessenger:[registrar messenger]];
   BaiduMobStatPlugin *instance = [[BaiduMobStatPlugin alloc] init];
   [registrar addMethodCallDelegate:instance channel:channel];
+  [BaiduMobStat defaultStat].platformType = 2;
 }
 
 - (void)handleMethodCall:(FlutterMethodCall *)call result:(FlutterResult)result {
